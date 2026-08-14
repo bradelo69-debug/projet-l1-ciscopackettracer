@@ -77,7 +77,8 @@ Ouvrir le fichier smart-home.pkt.
 Examiner la topologie et la configuration des différents équipements.
 Utiliser les modes Realtime et Simulation pour tester le fonctionnement du réseau.
 Observer les échanges entre les équipements connectés.
-Infos utiles : adresse du Homegateaway à entrer sur la tablette -> 192.168.25.1 
+Infos utiles : adresse du Homegateaway à entrer sur la tablette -> 192.168.25.1 / ID et Mot de passe du home gateaway : ID-> admin / MDP -> admin 
+Choix d'un mot de passe simple car c'est une simulation
 
 	Compétences travaillées
 conception d'une architecture réseau ;
