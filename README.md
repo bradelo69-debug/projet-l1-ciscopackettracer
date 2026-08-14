@@ -1,5 +1,5 @@
 # projet-l1-ciscopackettracer
-Projet final réalisé en première année de licence informatique ( lire le fichier README pour plus d'info )
+
 Ce projet consiste en la conception et la simulation d'une infrastructure de maison connectée (Smart Home) à l'aide de Cisco Packet Tracer.
 
 L'objectif est de mettre en place un environnement dans lequel différents équipements domestiques et objets connectés peuvent communiquer au sein d'un même réseau. Le projet intègre également des éléments liés à la gestion de l'énergie, notamment un panneau solaire et une batterie de stockage.
