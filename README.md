@@ -15,7 +15,7 @@ connecter différents équipements IoT ( correspond aux appareils d'une maison c
 configurer les équipements nécessaires à leur communication ;
 simuler le fonctionnement d'équipements domestiques connectés ;
 intégrer un système élémentaire de production et de stockage d'énergie ;
-accéder aux équipement via la tablette, grâce à l'adresse Ip+P du Home gateaway.
+accéder aux équipement via la tablette, grâce à l'adresse Ip du Home gateaway.
 
 	Archtecture
 L'infrastructure repose sur un Home Gateway servant de point central pour les équipements connectés. Celui-ci est relié au réseau via un câble modem.
@@ -34,13 +34,13 @@ La maison intègre plusieurs dispositifs permettant de simuler différentes fonc
 
 Équipement	        Fonction
 Smart Lamp	        Gestion de l'éclairage
-Smoke Detector	        Détection de fumée
+Smoke Detector	    Détection de fumée
 Temperature Monitor	Surveillance de la température
 Smart Door	        Gestion d'une porte
 Garage Door	        Gestion de l'accès au garage
 Smart Fan	        Ventilation
 Appliance	        Contrôle d'un appareil électrique
-Lawn Sprinkler	        Gestion de l'arrosage
+Lawn Sprinkler	    Gestion de l'arrosage
 MCU	                Contrôle de dispositifs IoT
 
 Ces équipements permettent de représenter différents usages d'un réseau domestique connecté.
